@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic01.jpg",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/drawable-hdpi/pic01.jpg"
+    },
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic02.jpg",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/drawable-hdpi/pic02.jpg"
+    },
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic05.jpg",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/drawable-hdpi/pic05.jpg"
+    },
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic03.jpg",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/drawable-hdpi/pic03.jpg"
+    },
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic04.jpg",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/drawable-hdpi/pic04.jpg"
+    }
+]

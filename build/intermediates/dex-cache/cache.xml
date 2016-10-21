@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7cc0001c3043603c4de8022100a002584b9d95">
+        <dex dex="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/pre-dexed/debug/instant-run_cd8c3bda8800822283704d741c43fc6a24bcd6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a682ea151fac1583e9cc7dc285a15d5d7ee66f85">
+        <dex dex="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_62040a4485c167e0b28b85423509604e4778d619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea32edd3a60d8590b809778e9b9b3e3096728df3">
+        <dex dex="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo1/app/build/intermediates/pre-dexed/debug/instant-run_b7ebf09810bdaae0ff5c09d94f98706361b28d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b5b0f0f45af0174272f3da9f3e336e56555d08d">
+        <dex dex="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d99bf7a4018928a8a10532c3b77db392a4045881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zhangming2/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/zhangming2/AndroidStudioProjects/ViewPagerDemo1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_d180d3c5fdb7eadf7a14ae2f0d6ef31047bdd0cb.jar" />
+    </item>
+
+</items>

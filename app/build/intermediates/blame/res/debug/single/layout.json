@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/layout/fragment_grid.xml",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/layout/fragment_grid.xml"
+    },
+    {
+        "merged": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/zhangming2/AndroidStudioProjects/ViewPagerDemo2/app/src/main/res/layout/activity_main.xml"
+    }
+]
