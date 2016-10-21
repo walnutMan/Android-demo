@@ -59,6 +59,8 @@ public class GridFragment extends Fragment implements View.OnTouchListener{
 			ViewGroup root = (ViewGroup) view.getParent();
 			if (root != null) {
 				root.removeView(view);
+
+				
 			}
 		}
 
